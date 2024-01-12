@@ -11,5 +11,9 @@ steven 入门rust的历程
 
 ## 必用网站
 - [rust 圣经](https://course.rs/advance/intro.html)
+- [rust lang github地址](https://github.com/rust-lang/rust)
+- [rust 中文官网](https://www.rust-lang.org/zh-CN/tools/install)
+- [rust book](https://doc.rust-lang.org/stable/book/)
+- [rust async](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html)
 
 
