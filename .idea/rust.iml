@@ -1,7 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="EMPTY_MODULE" version="4">
+  <component name="Go" enabled="true" />
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/demo/a_int/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/a_int/src/a2bool/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/a_mutable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/d1int/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/d2bool/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/d3char/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/d4array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/d5slice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/d6vec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/d7func/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/e1tuple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/e2struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/e3self/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/e4enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f10ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f11borrow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f12lifecycle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f13closure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f1string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f2format/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f3func/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f4func_return/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f5match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f6pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f7trait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f8trait_obj/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/f9generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/g1module/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/a1helloworld/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/a2format_print/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/a3comment/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/example/a4debug/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice/a1bind/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/a_int/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/a_mutable/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/d1int/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/d2bool/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/d3char/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/d4array/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/d5slice/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/d6vec/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/d7func/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/e1tuple/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/e2struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/e3self/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/e4enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f10ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f11borrow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f12lifecycle/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f13closure/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f1string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f2format/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f3func/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f4func_return/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f5match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f6pattern/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f7trait/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f8trait_obj/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/f9generics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo/g1module/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/a1helloworld/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/a2format_print/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/a3comment/target" />
+      <excludeFolder url="file://$MODULE_DIR$/example/a4debug/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practice/a1bind/target" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
